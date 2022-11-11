@@ -1,12 +1,6 @@
 ## Getting Started
 
-### 第一周的任务
-
-[阅读 1](http://web.mit.edu/6.031/www/sp21/classes/01-static-checking/)
-
-[阅读 2](http://web.mit.edu/6.031/www/sp21/classes/02-basic-java/)
-
-[问题集 0 第 I 部分](http://web.mit.edu/6.031/www/sp21/psets/ps0/)
+由于MIT 6.031 spring 21不是完全开源的，**除了本文件，其他内容均转向[spring 16](https://ocw.mit.edu/ans7870/6/6.005/s16/index.html)**
 
 [关于设置Git, MIT的意见见此](http://web.mit.edu/6.031/www/sp21/getting-started/#git-preferences)
 

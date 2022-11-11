@@ -48,3 +48,7 @@ http://web.mit.edu/6.031/www/sp21/announcements.html
 ## Quiz Archive
 
 http://web.mit.edu/6.031/www/sp21/quizzes/archive/
+
+## Other
+
+[6.005: Software Construction for problem sets](https://ocw.mit.edu/ans7870/6/6.005/s16/index.html)

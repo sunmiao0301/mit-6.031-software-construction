@@ -13,6 +13,8 @@ public class Reading01 {
         }
     }
 
+
+
     public static void main(String[] args) {
         Computing_Hailstones(2);
         Computing_Hailstones(3);
